@@ -12,7 +12,6 @@ npm start
 ```sh
 npm test
 ```
-
 ---
 
 ## The problem 💻
