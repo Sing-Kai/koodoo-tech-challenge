@@ -3,6 +3,8 @@
 ## Running locally
 
 ```sh
+git clone https://github.com/Sing-Kai/koodoo-tech-challenge.git
+cd ./koodoo-tech-challenge
 npm install
 npm start
 ```
